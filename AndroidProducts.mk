@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fuse_lavender.mk
+    $(LOCAL_DIR)/voltage_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    fuse_lavender-user \
-    fuse_lavender-userdebug \
-    fuse_lavender-eng
+    voltage_lavender-user \
+    voltage_lavender-userdebug \
+    voltage_lavender-eng
